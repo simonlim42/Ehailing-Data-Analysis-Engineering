@@ -21,7 +21,9 @@ Mage Data Pipeine Tool - https://www.mage.ai/
 ## Dataset Used
 TLC Trip Record Data
 The trip records for yellow and green taxis contain fields that record pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, detailed fare information, rate categories, payment methods, and passenger counts as reported by drivers.
+
 Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Architecture 

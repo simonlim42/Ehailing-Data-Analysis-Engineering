@@ -8,7 +8,7 @@ Link to dashboard: https://lookerstudio.google.com/reporting/84b217f6-1282-41ce-
 <img src="dashboard.png">
 
 ## Technology Used
-Python
+**Python** - Data formatting using Pandas.
 
 Google Cloud Platform
 1. Google Cloud Storage

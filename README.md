@@ -5,6 +5,7 @@ E-hailing Data Engineering Project using Google Cloud Platform
 The objective of this project is to conduct data analysis on taxi data utilizing a range of tools and technologies, which includes Python, GCP Storage, the Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 Link to dashboard: https://lookerstudio.google.com/reporting/84b217f6-1282-41ce-a88f-631623a46028
+
 <img src="dashboard.png">
 
 ## Technology Used
